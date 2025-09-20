@@ -1,5 +1,3 @@
 # SEMANTICS, STRUCTURES, EVENTS: TOWARDS ANOMALY-AWARE TIME-SERIES QUERY RECOMMENDATION
 
-This repository contains the code for our paper: "SEMANTICS, STRUCTURES, EVENTS: TOWARDS ANOMALY-AWARE TIME-SERIES
-QUERY RECOMMENDATION".
-Code and documentation will be released soon.
+This repository provides the official implementation of our paper.
